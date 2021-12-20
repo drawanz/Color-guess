@@ -1,0 +1,25 @@
+#container-cores{
+    display: flex;
+    width: 80%;
+    align-items: center;
+}
+
+.cores-aleatorias{
+    border: solid black 1px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 50px;
+    min-height: 50px;
+}
+
+#rgb-color{
+   /* display: flex;*/
+    
+}
+
+
+#section-texto{
+    /*display: flex;*/
+    margin-left: 30%;  
+}
