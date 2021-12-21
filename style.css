@@ -4,7 +4,7 @@
     align-items: center;
 }
 
-.cores-aleatorias{
+.ball{
     border: solid black 1px;
     margin-left: auto;
     margin-right: auto;
@@ -13,13 +13,10 @@
     min-height: 50px;
 }
 
-#rgb-color{
-   /* display: flex;*/
-    
+#answer{
+    margin-left: 30%;
 }
 
-
 #section-texto{
-    /*display: flex;*/
     margin-left: 30%;  
 }
